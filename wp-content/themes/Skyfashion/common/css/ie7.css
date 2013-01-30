@@ -1,0 +1,1 @@
+/* ------------------------------- IE 7 BIG FIX --------------------------------*/#header .menu .sub-menu{	border: 1px solid #000;}#header .search-form input[type="text"]{	/*padding: 6px 5px;	font-size: 15px;*/	height: auto;	line-height: 32px;}ul.tabs, ul.tabs *{	zoom: 1;}

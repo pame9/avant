@@ -1,0 +1,84 @@
+.flickrpress-container {
+    overflow: auto;
+    text-align: center;
+}
+
+.flickrpress-container .flickrpress-items div {
+    display: inline-block;
+    background: white;
+    border: 1px solid #DDD;
+}
+
+.flickrpress-container .flickrpress-items div a {
+    line-height: 0;
+    display: block;
+}
+
+.flickrpress-container .flickrpress-items div {
+    /* IE can't do inline-block, but inline is equivalent */
+    *display: inline;
+}
+
+.flickrpress-container img {
+    margin: 0;
+}
+
+.flickrpress-container .flickr_item_view_squares img {
+    background: url(spinner.gif) no-repeat center center;
+}
+
+.flickrpress-container .flickrpress-navigation {
+    margin-top: 10px;
+}
+
+.flickrpress-container .flickrpress-navigation .flickrpress-navigation-previous {
+    float: left;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.flickrpress-container .flickrpress-navigation .flickrpress-navigation-next {
+    float: right;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.pending .flickrpress-navigation div {
+    text-indent: -9999px;
+    background: url(spinner.gif) no-repeat center center;
+    width: 16px;
+    height: 16px;
+}
+
+.flickrpress-container .flickrpress-items div span {
+    /* See below */
+    display: none;
+}
+
+/* Styling from http://www.webdesignerwall.com/tutorials/css-decorative-gallery/
+* Note: This will generally only work with square thumbnails. */
+/*
+.flickrpress-container div img {
+   width: 48px;
+   height: 48px;
+   position: relative;
+}
+.flickrpress-container div span {
+   z-index: 1;
+   width: 48px;
+   height: 48px;
+   display: block;
+   position: absolute;
+   background: url(images/flickr-border.png) no-repeat;
+}
+*/
+/* Download iepngfix.htc from http://www.twinhelix.com/css/iepngfix/ then create ie.css with the following (uncommented, of course):
+.flickrpress-container div span {
+   behavior: url(iepngfix.htc);
+}
+*/
+/* Then, and link it in to your template's header.php with:
+<!--[if lt IE 7]>
+<link rel="stylesheet" href="/path/to/ie.css" type="text/css" media="screen" />
+<![endif]-->
+*/

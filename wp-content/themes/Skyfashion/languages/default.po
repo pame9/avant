@@ -1,0 +1,1257 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Skyfashion\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-17 12:51+0100\n"
+"PO-Revision-Date: 2012-08-17 12:53+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+#: ../404.php:10
+msgid "Error 404. The page you’re looking for can’t be found"
+msgstr ""
+#: ../404.php:14
+msgid "Go back"
+msgstr ""
+#: ../404.php:16
+#, php-format
+msgid "<a href=\"%1$s\" title=\"Home Page\">Go to Home Page</a>"
+msgstr ""
+#: ../archive.php:28
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+#: ../archive.php:30
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+#: ../archive.php:32
+#, php-format
+msgid "Daily Archives: <p>%s</p>"
+msgstr ""
+#: ../archive.php:34
+#, php-format
+msgid "Monthly Archives: <p>%s</p>"
+msgstr ""
+#: ../archive.php:36
+#, php-format
+msgid "Yearly Archives: <p>%s</p>"
+msgstr ""
+#: ../archive.php:38
+msgid "Blog Archives"
+msgstr ""
+#: ../blog.php:51 ../loop-portfolio.php:41 ../loop.php:18
+msgid "Apologies, but no results were found for the requested archive. "
+msgstr ""
+#: ../blog.php:79 ../loop-single.php:53 ../loop.php:36
+msgid "Tags"
+msgstr ""
+#: ../blog.php:87 ../comments.php:34 ../loop-single.php:59 ../loop.php:42
+msgid "No comments"
+msgstr ""
+#: ../blog.php:137 ../loop.php:87
+msgid "Continue reading"
+msgstr ""
+#: ../comments.php:16
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+#: ../comments.php:28
+msgid "Comments"
+msgstr ""
+#: ../comments.php:56
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+#: ../comments.php:57
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+#: ../comments.php:101 ../advance/apollo13.php:1683
+msgid "Name"
+msgstr ""
+#: ../comments.php:101 ../comments.php:105 ../advance/apollo13.php:1684
+#: ../advance/apollo13.php:1692
+msgid "required"
+msgstr ""
+#: ../comments.php:105 ../advance/apollo13.php:1691
+msgid "Email"
+msgstr ""
+#: ../comments.php:109
+msgid "Website"
+msgstr ""
+#: ../comments.php:121
+msgid "Leave a reply"
+msgstr ""
+#: ../comments.php:122
+#, php-format
+msgid "<span class=\"mm\">Leave a comment to %s</span>"
+msgstr ""
+#: ../comments.php:126
+msgid "Leave reply"
+msgstr ""
+#: ../comments.php:127
+msgid " | Cancel reply"
+msgstr ""
+#: ../contact.php:43
+msgid "Thanks, your email was sent successfully."
+msgstr ""
+#: ../footer.php:43
+msgid "Follow us on "
+msgstr ""
+#: ../footer.php:77 ../footer.php:83 ../advance/apollo13.php:1021
+msgid "Search ..."
+msgstr ""
+#: ../front-page.php:32 ../advance/options.php:91 ../advance/widgets.php:507
+#: ../advance/widgets.php:649
+msgid "Latest works"
+msgstr ""
+#: ../front-page.php:109
+msgid "Latest blog posts"
+msgstr ""
+#: ../header.php:25
+#, php-format
+msgid "Page %s"
+msgstr ""
+#: ../loop-attachment.php:17 ../loop-attachment.php:19
+#, php-format
+msgid "Return to %s"
+msgstr ""
+#: ../loop-attachment.php:25
+#, php-format
+msgid "By %1$s"
+msgstr ""
+#: ../loop-attachment.php:34
+#, php-format
+msgid "Published %1$s"
+msgstr ""
+#: ../loop-attachment.php:43
+#, php-format
+msgid "Full size is %s pixels"
+msgstr ""
+#: ../loop-attachment.php:46
+msgid "Link to full-size image"
+msgstr ""
+#: ../loop-attachment.php:53
+msgid "Edit"
+msgstr ""
+#: ../loop-single.php:83 ../loop-single.php:85 ../advance/apollo13.php:2034
+#: ../advance/apollo13.php:2037 ../advance/apollo13.php:2043
+#: ../advance/apollo13.php:2052 ../advance/apollo13.php:2068
+msgid "Back to Blog"
+msgstr ""
+#: ../search.php:18
+#, php-format
+msgid "Search results - %1$d results found for '%2$s'"
+msgstr ""
+#: ../search.php:28
+msgid "Search results - Nothing found"
+msgstr ""
+#: ../taxonomy-skills.php:78 ../advance/apollo13.php:404
+#: ../advance/apollo13.php:436
+msgid "All"
+msgstr ""
+#: ../advance/apollo13.php:116
+msgid "Header Navigation"
+msgstr ""
+#: ../advance/apollo13.php:117
+msgid "Footer Navigation"
+msgstr ""
+#: ../advance/apollo13.php:192
+msgid "Footer sidebar"
+msgstr ""
+#: ../advance/apollo13.php:194
+msgid "Widgets from this sidebar will appear in footer"
+msgstr ""
+#: ../advance/apollo13.php:202
+msgid "Blog sidebar"
+msgstr ""
+#: ../advance/apollo13.php:204
+msgid "Widgets from this sidebar will appear on main blog page"
+msgstr ""
+#: ../advance/apollo13.php:212
+msgid "Blog post sidebar"
+msgstr ""
+#: ../advance/apollo13.php:214
+msgid "Widgets from this sidebar will appear on blog posts"
+msgstr ""
+#: ../advance/apollo13.php:222
+msgid "Portfolio sidebar"
+msgstr ""
+#: ../advance/apollo13.php:224
+msgid ""
+"Widgets from this sidebar will appear on every site of portfolio(not on main)"
+msgstr ""
+#: ../advance/apollo13.php:232
+msgid "Contact sidebar"
+msgstr ""
+#: ../advance/apollo13.php:234
+msgid "Widgets from this sidebar will appear on contact page"
+msgstr ""
+#: ../advance/apollo13.php:243
+msgid "Site Options"
+msgstr ""
+#: ../advance/apollo13.php:244
+msgid "Main settings"
+msgstr ""
+#: ../advance/apollo13.php:245
+msgid "Home Page Design"
+msgstr ""
+#: ../advance/apollo13.php:246
+msgid "Colors"
+msgstr ""
+#: ../advance/apollo13.php:247
+msgid "Fonts"
+msgstr ""
+#: ../advance/apollo13.php:248
+msgid "Footer texts"
+msgstr ""
+#: ../advance/apollo13.php:249
+msgid "Portfolio"
+msgstr ""
+#: ../advance/apollo13.php:250
+msgid "Social"
+msgstr ""
+#: ../advance/apollo13.php:251
+msgid "Advance"
+msgstr ""
+#: ../advance/apollo13.php:252 ../advance/meta.php:106
+msgid "Slider"
+msgstr ""
+#: ../advance/apollo13.php:257
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+#: ../advance/apollo13.php:274
+#, php-format
+msgid ""
+"Template updated. <a href=\"%s\">Visit your site</a> to see how it looks."
+msgstr ""
+#: ../advance/apollo13.php:303 ../advance/apollo13.php:576
+msgid "Save Changes"
+msgstr ""
+#: ../advance/apollo13.php:328 ../advance/widgets.php:934
+#: ../advance/shortcodes/shortcodes-generate.php:1559
+msgid "Upload Image"
+msgstr ""
+#: ../advance/apollo13.php:406
+msgid "Featured"
+msgstr ""
+#: ../advance/apollo13.php:410 ../advance/apollo13.php:444
+msgid "Your Categories"
+msgstr ""
+#: ../advance/apollo13.php:438
+msgid "Latest"
+msgstr ""
+#: ../advance/apollo13.php:440
+msgid "Popular"
+msgstr ""
+#: ../advance/apollo13.php:876
+msgid "Add New Portfolio Item"
+msgstr ""
+#: ../advance/apollo13.php:877
+msgid "Edit Portfolio Item"
+msgstr ""
+#: ../advance/apollo13.php:878
+msgid "New Portfolio Item"
+msgstr ""
+#: ../advance/apollo13.php:879
+msgid "View Portfolio Item"
+msgstr ""
+#: ../advance/apollo13.php:880
+msgid "Search Portfolio"
+msgstr ""
+#: ../advance/apollo13.php:881
+msgid "Nothing found"
+msgstr ""
+#: ../advance/apollo13.php:882
+msgid "Nothing found in Trash"
+msgstr ""
+#: ../advance/apollo13.php:982
+#, php-format
+msgid "%2$s"
+msgstr ""
+#: ../advance/apollo13.php:989
+#, php-format
+msgid "%1$s"
+msgstr ""
+#: ../advance/apollo13.php:991
+#, php-format
+msgid ""
+"Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark"
+"\">permalink</a>."
+msgstr ""
+#: ../advance/apollo13.php:1019
+msgid "Type and enter ..."
+msgstr ""
+#: ../advance/apollo13.php:1047 ../advance/apollo13.php:1062
+#: ../advance/apollo13.php:1065
+msgid " Shortocdes"
+msgstr ""
+#: ../advance/apollo13.php:1050
+msgid "Blog post Detail -  Add Image and videos"
+msgstr ""
+#: ../advance/apollo13.php:1053
+msgid "Page Detail"
+msgstr ""
+#: ../advance/apollo13.php:1056
+msgid "Portfolio details"
+msgstr ""
+#: ../advance/apollo13.php:1059
+msgid "Portfolio details - Add Image and videos"
+msgstr ""
+#: ../advance/apollo13.php:1073
+msgid "Select category"
+msgstr ""
+#: ../advance/apollo13.php:1196
+msgid "Upload"
+msgstr ""
+#: ../advance/apollo13.php:1261
+msgid "None"
+msgstr ""
+#: ../advance/apollo13.php:1297
+msgid "Insert transparent value"
+msgstr ""
+#: ../advance/apollo13.php:1361
+msgid "Multi upload area"
+msgstr ""
+#: ../advance/apollo13.php:1366
+msgid "Uploading files..."
+msgstr ""
+#: ../advance/apollo13.php:1369
+msgid "Drop files here"
+msgstr ""
+#: ../advance/apollo13.php:1371
+msgid "Select Files"
+msgstr ""
+#: ../advance/apollo13.php:1619 ../advance/apollo13.php:1666
+msgid "General question ..."
+msgstr ""
+#: ../advance/apollo13.php:1645
+msgid " - message from contact form"
+msgstr ""
+#: ../advance/apollo13.php:1646
+msgid "Site: "
+msgstr ""
+#: ../advance/apollo13.php:1647
+msgid "Name: "
+msgstr ""
+#: ../advance/apollo13.php:1648
+msgid "Email: "
+msgstr ""
+#: ../advance/apollo13.php:1649
+msgid "Subject: "
+msgstr ""
+#: ../advance/apollo13.php:1650
+msgid "Message: "
+msgstr ""
+#: ../advance/apollo13.php:1656
+msgid "Success sending form"
+msgstr ""
+#: ../advance/apollo13.php:1658
+msgid "Something wrong. Try again!"
+msgstr ""
+#: ../advance/apollo13.php:1660
+msgid "Error in form"
+msgstr ""
+#: ../advance/apollo13.php:1700
+msgid "Subject"
+msgstr ""
+#: ../advance/apollo13.php:1710
+msgid "Submit form"
+msgstr ""
+#: ../advance/apollo13.php:1808
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+#: ../advance/apollo13.php:1822
+msgid "Your comment is awaiting moderation."
+msgstr ""
+#: ../advance/apollo13.php:1998 ../advance/apollo13.php:2001
+#: ../advance/apollo13.php:2022
+msgid "Back to portfolio"
+msgstr ""
+#: ../advance/apollo13.php:2041 ../advance/apollo13.php:2060
+#: ../advance/apollo13.php:2064 ../advance/apollo13.php:2201
+#: ../advance/apollo13.php:2205
+msgid "Newer Entries"
+msgstr ""
+#: ../advance/apollo13.php:2045 ../advance/apollo13.php:2075
+#: ../advance/apollo13.php:2079 ../advance/apollo13.php:2222
+#: ../advance/apollo13.php:2226
+msgid "Older Entries"
+msgstr ""
+#: ../advance/meta.php:11
+msgid "Choose featured image position"
+msgstr ""
+#: ../advance/meta.php:12
+msgid "Choose between next to title or in content position"
+msgstr ""
+#: ../advance/meta.php:17
+msgid "Next to title (Thumbnail)"
+msgstr ""
+#: ../advance/meta.php:18
+msgid "Top of content"
+msgstr ""
+#: ../advance/meta.php:25
+msgid "Date position"
+msgstr ""
+#: ../advance/meta.php:31
+msgid "Above to title"
+msgstr ""
+#: ../advance/meta.php:32
+msgid "Left of content"
+msgstr ""
+#: ../advance/meta.php:39 ../advance/meta.php:80 ../advance/meta.php:135
+msgid "Background image"
+msgstr ""
+#: ../advance/meta.php:46 ../advance/meta.php:87 ../advance/meta.php:142
+#: ../advance/shortcodes/shortcodes-generate.php:73
+#: ../advance/shortcodes/shortcodes-generate.php:1124
+msgid "Background color"
+msgstr ""
+#: ../advance/meta.php:53 ../advance/meta.php:212
+msgid "Link to video"
+msgstr ""
+#: ../advance/meta.php:72
+msgid "Extra description"
+msgstr ""
+#: ../advance/meta.php:107
+msgid "Use slider "
+msgstr ""
+#: ../advance/meta.php:112 ../advance/options.php:441
+#: ../advance/options.php:568 ../advance/options.php:579
+#: ../advance/shortcodes/shortcodes-generate.php:139
+msgid "Yes"
+msgstr ""
+#: ../advance/meta.php:113 ../advance/options.php:442
+#: ../advance/options.php:569 ../advance/options.php:580
+#: ../advance/shortcodes/shortcodes-generate.php:140
+msgid "No"
+msgstr ""
+#: ../advance/meta.php:120
+msgid "Custom thumbnail"
+msgstr ""
+#: ../advance/meta.php:127 ../advance/meta.php:204
+msgid "Image attributes"
+msgstr ""
+#: ../advance/meta.php:128 ../advance/meta.php:205
+msgid "<strong>alt</strong> is required for <strong>img</strong> elements"
+msgstr ""
+#: ../advance/meta.php:153
+msgid "Short description under title"
+msgstr ""
+#: ../advance/meta.php:154
+msgid "This text will show in the portfolio list"
+msgstr ""
+#: ../advance/meta.php:172
+msgid "Multi upload"
+msgstr ""
+#: ../advance/meta.php:186
+msgid "Choose image or video"
+msgstr ""
+#: ../advance/meta.php:187
+msgid "Choose between Image or Video"
+msgstr ""
+#: ../advance/meta.php:192 ../advance/shortcodes/shortcodes-generate.php:112
+msgid "Image"
+msgstr ""
+#: ../advance/meta.php:193 ../advance/shortcodes/shortcodes-generate.php:1478
+#: ../advance/shortcodes/shortcodes-generate.php:1481
+msgid "Video"
+msgstr ""
+#: ../advance/meta.php:197
+msgid "Upload image"
+msgstr ""
+#: ../advance/meta.php:222
+msgid "Add next image or video"
+msgstr ""
+#: ../advance/options.php:7
+msgid "Customize Logo"
+msgstr ""
+#: ../advance/options.php:11
+msgid "Custom logo image(light)"
+msgstr ""
+#: ../advance/options.php:12 ../advance/options.php:19
+msgid ""
+"Enter an URL or upload an image for logo. Paste the full URL (include "
+"<code>http://</code>). Left empty to use default theme value."
+msgstr ""
+#: ../advance/options.php:18
+msgid "Custom logo image(dark)"
+msgstr ""
+#: ../advance/options.php:25
+msgid "Theme styles"
+msgstr ""
+#: ../advance/options.php:29
+msgid "Choose default style file to use:"
+msgstr ""
+#: ../advance/options.php:40
+msgid "Blog settings"
+msgstr ""
+#: ../advance/options.php:44
+msgid "Select blog page"
+msgstr ""
+#: ../advance/options.php:45
+msgid "Choose the one you use for blog display"
+msgstr ""
+#: ../advance/options.php:51
+msgid "Contact form settings"
+msgstr ""
+#: ../advance/options.php:55
+msgid "E-mail address where e-mails will be sent:"
+msgstr ""
+#: ../advance/options.php:56
+msgid "If empty, will use admin site e-mail"
+msgstr ""
+#: ../advance/options.php:62
+msgid "Google Analytics"
+msgstr ""
+#: ../advance/options.php:66
+msgid "Enter code here from GA here:"
+msgstr ""
+#: ../advance/options.php:80
+msgid "HelloText"
+msgstr ""
+#: ../advance/options.php:84 ../advance/shortcodes/shortcodes-generate.php:53
+#: ../advance/shortcodes/shortcodes-generate.php:87
+msgid "Text"
+msgstr ""
+#: ../advance/options.php:85
+msgid "Write text to show on front page"
+msgstr ""
+#: ../advance/options.php:95
+msgid "Latest works items displayed"
+msgstr ""
+#: ../advance/options.php:96
+msgid "Set number of items displayed on front page."
+msgstr ""
+#: ../advance/options.php:102
+msgid "Latest from Blog"
+msgstr ""
+#: ../advance/options.php:106
+msgid "Switch on/off Latest from Blog section"
+msgstr ""
+#: ../advance/options.php:111
+msgid "Enable"
+msgstr ""
+#: ../advance/options.php:112
+msgid "Disable"
+msgstr ""
+#: ../advance/options.php:117
+msgid "About Text"
+msgstr ""
+#: ../advance/options.php:121
+msgid "Select about page"
+msgstr ""
+#: ../advance/options.php:122
+msgid "Choose the one you use for about text display"
+msgstr ""
+#: ../advance/options.php:145
+msgid "Content fonts settings"
+msgstr ""
+#: ../advance/options.php:149 ../advance/options.php:195
+msgid "Choose:"
+msgstr ""
+#: ../advance/options.php:154 ../advance/options.php:200
+msgid "Google font on"
+msgstr ""
+#: ../advance/options.php:155 ../advance/options.php:201
+msgid "Google font off"
+msgstr ""
+#: ../advance/options.php:160 ../advance/options.php:206
+msgid "Choose Google font:"
+msgstr ""
+#: ../advance/options.php:165 ../advance/options.php:213
+msgid "Merriweather"
+msgstr ""
+#: ../advance/options.php:166 ../advance/options.php:214
+msgid "Open Sans"
+msgstr ""
+#: ../advance/options.php:167 ../advance/options.php:215
+msgid "PT Sans"
+msgstr ""
+#: ../advance/options.php:168 ../advance/options.php:216
+msgid "PT Sans Narrow"
+msgstr ""
+#: ../advance/options.php:169 ../advance/options.php:217
+msgid "Droid Serif"
+msgstr ""
+#: ../advance/options.php:170 ../advance/options.php:218
+msgid "Droid Sans"
+msgstr ""
+#: ../advance/options.php:171 ../advance/options.php:219
+msgid "Nobile"
+msgstr ""
+#: ../advance/options.php:172 ../advance/options.php:220
+msgid "Ubuntu"
+msgstr ""
+#: ../advance/options.php:173 ../advance/options.php:221
+msgid "Vollkorn"
+msgstr ""
+#: ../advance/options.php:178 ../advance/options.php:226
+msgid "Choose standard font:"
+msgstr ""
+#: ../advance/options.php:183 ../advance/options.php:231
+msgid "Tahoma"
+msgstr ""
+#: ../advance/options.php:184 ../advance/options.php:232
+msgid "Arial"
+msgstr ""
+#: ../advance/options.php:185 ../advance/options.php:233
+msgid "Georgia"
+msgstr ""
+#: ../advance/options.php:186 ../advance/options.php:234
+msgid "Times New Roman"
+msgstr ""
+#: ../advance/options.php:191
+msgid "Others fonts settings"
+msgstr ""
+#: ../advance/options.php:211
+msgid "Oswald Light"
+msgstr ""
+#: ../advance/options.php:212
+msgid "Oswald Normal"
+msgstr ""
+#: ../advance/options.php:239
+msgid "Uppercase"
+msgstr ""
+#: ../advance/options.php:244
+msgid "On"
+msgstr ""
+#: ../advance/options.php:245
+msgid "Off"
+msgstr ""
+#: ../advance/options.php:257
+msgid "Customize &lt;body&gt; area"
+msgstr ""
+#: ../advance/options.php:261
+msgid "Custom background color"
+msgstr ""
+#: ../advance/options.php:262 ../advance/options.php:276
+#: ../advance/options.php:283 ../advance/options.php:290
+msgid ""
+"Use valid CSS <code>color</code> property values( <code>green, #33FF99, rgb"
+"(255,128,0)</code> ), or get your color with color picker tool. Left empty "
+"to use default theme value."
+msgstr ""
+#: ../advance/options.php:268
+msgid "Custom background image"
+msgstr ""
+#: ../advance/options.php:269
+msgid ""
+"Enter an URL or upload an image for background. Paste the full URL (include "
+"<code>http://</code>). Left empty to use default theme value."
+msgstr ""
+#: ../advance/options.php:275
+msgid "Custom menu line color"
+msgstr ""
+#: ../advance/options.php:282
+msgid "Custom link color"
+msgstr ""
+#: ../advance/options.php:289
+#: ../advance/shortcodes/shortcodes-generate.php:376
+#: ../advance/shortcodes/shortcodes-generate.php:683
+#: ../advance/shortcodes/shortcodes-generate.php:1062
+msgid "Button color"
+msgstr ""
+#: ../advance/options.php:304
+msgid "Footer texts settings"
+msgstr ""
+#: ../advance/options.php:308
+msgid "Footer copyright text:"
+msgstr ""
+#: ../advance/options.php:323
+msgid "Portfolio settings"
+msgstr ""
+#: ../advance/options.php:327
+msgid "Select portfolio page"
+msgstr ""
+#: ../advance/options.php:328
+msgid "Choose the one you use for portfolio display"
+msgstr ""
+#: ../advance/options.php:334
+msgid "Icons size"
+msgstr ""
+#: ../advance/options.php:335
+msgid "You can pick thumbs size"
+msgstr ""
+#: ../advance/options.php:339
+#: ../advance/shortcodes/shortcodes-generate.php:692
+msgid "Small"
+msgstr ""
+#: ../advance/options.php:340
+#: ../advance/shortcodes/shortcodes-generate.php:385
+msgid "Medium"
+msgstr ""
+#: ../advance/options.php:341
+msgid "Large"
+msgstr ""
+#: ../advance/options.php:346
+msgid "Description position"
+msgstr ""
+#: ../advance/options.php:347
+msgid "Description on hover or below icon"
+msgstr ""
+#: ../advance/options.php:351
+msgid "Hover"
+msgstr ""
+#: ../advance/options.php:352
+msgid "Below icon"
+msgstr ""
+#: ../advance/options.php:357
+msgid "Hover text"
+msgstr ""
+#: ../advance/options.php:364
+msgid "Sorting type"
+msgstr ""
+#: ../advance/options.php:365
+msgid "Reload page or use ajax"
+msgstr ""
+#: ../advance/options.php:369
+msgid "Dynamic"
+msgstr ""
+#: ../advance/options.php:370
+msgid "Static"
+msgstr ""
+#: ../advance/options.php:412 ../advance/options.php:416
+msgid "Social services"
+msgstr ""
+#: ../advance/options.php:417
+msgid "Use <code>http://</code> in your social links"
+msgstr ""
+#: ../advance/options.php:432
+msgid "Timthumb settings"
+msgstr ""
+#: ../advance/options.php:436
+msgid "Use relative paths"
+msgstr ""
+#: ../advance/options.php:437
+msgid ""
+"Don't change it if images in your blog loads normaly. Only if none image in "
+"blog is loading try to change this."
+msgstr ""
+#: ../advance/options.php:455
+msgid "Slider photos"
+msgstr ""
+#: ../advance/options.php:459
+msgid "Slider photo 1 Caption"
+msgstr ""
+#: ../advance/options.php:465
+msgid "Slider photo 1"
+msgstr ""
+#: ../advance/options.php:466 ../advance/options.php:479
+#: ../advance/options.php:492 ../advance/options.php:505
+#: ../advance/options.php:518 ../advance/options.php:531
+msgid "Widht: 940px Hight: 300px"
+msgstr ""
+#: ../advance/options.php:472
+msgid "Slider photo 2 Caption"
+msgstr ""
+#: ../advance/options.php:478
+msgid "Slider photo 2"
+msgstr ""
+#: ../advance/options.php:485
+msgid "Slider photo 3 Caption"
+msgstr ""
+#: ../advance/options.php:491
+msgid "Slider photo 3"
+msgstr ""
+#: ../advance/options.php:498
+msgid "Slider photo 4 Caption"
+msgstr ""
+#: ../advance/options.php:504
+msgid "Slider photo 4"
+msgstr ""
+#: ../advance/options.php:511
+msgid "Slider photo 5 Caption"
+msgstr ""
+#: ../advance/options.php:517
+msgid "Slider photo 5"
+msgstr ""
+#: ../advance/options.php:524
+msgid "Slider photo 6 Caption"
+msgstr ""
+#: ../advance/options.php:530
+msgid "Slider photo 6"
+msgstr ""
+#: ../advance/options.php:537
+msgid "Slider settings"
+msgstr ""
+#: ../advance/options.php:541
+msgid "Animation"
+msgstr ""
+#: ../advance/options.php:542
+msgid "Select your animation type"
+msgstr ""
+#: ../advance/options.php:546
+msgid "Fade"
+msgstr ""
+#: ../advance/options.php:547
+msgid "Slide"
+msgstr ""
+#: ../advance/options.php:552
+msgid "Slide direction"
+msgstr ""
+#: ../advance/options.php:553
+msgid "Select the sliding direction"
+msgstr ""
+#: ../advance/options.php:557
+msgid "Horizontal"
+msgstr ""
+#: ../advance/options.php:558
+msgid "Vertical"
+msgstr ""
+#: ../advance/options.php:563
+msgid "Slideshow"
+msgstr ""
+#: ../advance/options.php:564
+msgid "Animate slider automatically"
+msgstr ""
+#: ../advance/options.php:574
+msgid "Cotrol Navigation"
+msgstr ""
+#: ../advance/options.php:575
+msgid "Create navigation for paging control of each slide"
+msgstr ""
+#: ../advance/options.php:585
+msgid "Slide show speed"
+msgstr ""
+#: ../advance/options.php:591
+msgid "Animation duration"
+msgstr ""
+#: ../advance/widgets.php:6
+msgid "The most recent posts on your site"
+msgstr ""
+#: ../advance/widgets.php:7 ../advance/widgets.php:30
+msgid "Recent Posts"
+msgstr ""
+#: ../advance/widgets.php:87 ../advance/widgets.php:181
+#: ../advance/widgets.php:283 ../advance/widgets.php:376
+#: ../advance/widgets.php:459 ../advance/widgets.php:605
+#: ../advance/widgets.php:765 ../advance/widgets.php:864
+#: ../advance/plugins/flickrpress/flickr.php:520
+msgid "Title:"
+msgstr ""
+#: ../advance/widgets.php:90 ../advance/widgets.php:184
+#: ../advance/widgets.php:286 ../advance/widgets.php:608
+#: ../advance/widgets.php:768 ../advance/widgets.php:867
+msgid "Number of posts to show:"
+msgstr ""
+#: ../advance/widgets.php:103
+msgid "The most popular posts on your site"
+msgstr ""
+#: ../advance/widgets.php:104 ../advance/widgets.php:127
+msgid "Popular Posts"
+msgstr ""
+#: ../advance/widgets.php:196
+msgid "Related posts to current post"
+msgstr ""
+#: ../advance/widgets.php:197 ../advance/widgets.php:220
+msgid "Related Posts"
+msgstr ""
+#: ../advance/widgets.php:298
+msgid "The most recent comments"
+msgstr ""
+#: ../advance/widgets.php:299 ../advance/widgets.php:325
+msgid "Recent Comments"
+msgstr ""
+#: ../advance/widgets.php:341
+msgid "on"
+msgstr ""
+#: ../advance/widgets.php:379
+msgid "Number of comments to show:"
+msgstr ""
+#: ../advance/widgets.php:391
+msgid "Display twitter feeds"
+msgstr ""
+#: ../advance/widgets.php:392
+msgid "  Twitter"
+msgstr ""
+#: ../advance/widgets.php:397
+msgid "Twitter"
+msgstr ""
+#: ../advance/widgets.php:420
+#, php-format
+msgid "about %d seconds ago"
+msgstr ""
+#: ../advance/widgets.php:421
+msgid "about a minute ago"
+msgstr ""
+#: ../advance/widgets.php:422
+#, php-format
+msgid "about %d minutes ago"
+msgstr ""
+#: ../advance/widgets.php:423
+msgid "about an hour ago"
+msgstr ""
+#: ../advance/widgets.php:424
+#, php-format
+msgid "about %d hours ago"
+msgstr ""
+#: ../advance/widgets.php:425
+msgid "about a day ago"
+msgstr ""
+#: ../advance/widgets.php:426
+#, php-format
+msgid "about %d days ago"
+msgstr ""
+#: ../advance/widgets.php:427
+msgid "view tweet on twitter"
+msgstr ""
+#: ../advance/widgets.php:462
+msgid "Username:"
+msgstr ""
+#: ../advance/widgets.php:466
+msgid "Number of tweets"
+msgstr ""
+#: ../advance/widgets.php:479
+msgid "Your most recent projects"
+msgstr ""
+#: ../advance/widgets.php:480 ../advance/widgets.php:503
+#: ../advance/widgets.php:645
+msgid "Recent Projects"
+msgstr ""
+#: ../advance/widgets.php:620
+msgid "Related projects"
+msgstr ""
+#: ../advance/widgets.php:621
+msgid "Related Projects"
+msgstr ""
+#: ../advance/widgets.php:780
+msgid "Featured projects"
+msgstr ""
+#: ../advance/widgets.php:781 ../advance/widgets.php:804
+msgid "Featured Projects"
+msgstr ""
+#: ../advance/widgets.php:879 ../advance/widgets.php:880
+msgid "Custom image"
+msgstr ""
+#: ../advance/widgets.php:932
+msgid "Image:"
+msgstr ""
+#: ../advance/plugins/flickrpress/flickr.php:279
+msgid "Flickr"
+msgstr ""
+#: ../advance/plugins/flickrpress/flickr.php:524
+msgid "Display:"
+msgstr ""
+#: ../advance/plugins/flickrpress/flickr.php:532
+msgid "Flickr RSS URL:"
+msgstr ""
+#: ../advance/plugins/flickrpress/flickr.php:538
+msgid "Flickr API Key:"
+msgstr ""
+#: ../advance/plugins/flickrpress/flickr.php:544
+msgid "Account name, email or ID:"
+msgstr ""
+#: ../advance/plugins/flickrpress/flickr.php:548
+msgid "Photosets:"
+msgstr ""
+#: ../advance/plugins/flickrpress/flickr.php:553
+msgid "Filter by tags:"
+msgstr ""
+#: ../advance/plugins/flickrpress/flickr.php:558
+msgid "Number of thumbnails:"
+msgstr ""
+#: ../advance/plugins/flickrpress/flickr.php:566
+msgid "Display random"
+msgstr ""
+#: ../advance/plugins/flickrpress/flickr.php:576
+msgid "View as square thumbnails"
+msgstr ""
+#: ../advance/plugins/flickrpress/flickr.php:578
+msgid "View as proportional thumbnails"
+msgstr ""
+#: ../advance/plugins/flickrpress/flickr.php:580
+msgid "View as large thumbnails"
+msgstr ""
+#: ../advance/plugins/flickrpress/flickr.php:584
+msgid "Use Lightbox, etc."
+msgstr ""
+#: ../advance/plugins/flickrpress/flickr.php:617
+msgid "Display entries from Flickr"
+msgstr ""
+#: ../advance/plugins/flickrpress/flickr.php:619
+msgid "Flickrpress"
+msgstr ""
+#: ../advance/shortcodes/priceboxes.php:103
+msgid "Read more"
+msgstr ""
+#: ../advance/shortcodes/shortcodes-generate.php:7
+msgid "Typography"
+msgstr ""
+#: ../advance/shortcodes/shortcodes-generate.php:10
+msgid "Blockquote"
+msgstr ""
+#: ../advance/shortcodes/shortcodes-generate.php:14
+#: ../advance/shortcodes/shortcodes-generate.php:100
+msgid "Align"
+msgstr ""
+#: ../advance/shortcodes/shortcodes-generate.php:26
+#: ../advance/shortcodes/shortcodes-generate.php:1090
+#: ../advance/shortcodes/shortcodes-generate.php:1166
+msgid "Content"
+msgstr ""
+#: ../advance/shortcodes/shortcodes-generate.php:35
+msgid "Hightlighting"
+msgstr ""
+#: ../advance/shortcodes/shortcodes-generate.php:39
+#: ../advance/shortcodes/shortcodes-generate.php:66
+#: ../advance/shortcodes/shortcodes-generate.php:1117
+msgid "Text color"
+msgstr ""
+#: ../advance/shortcodes/shortcodes-generate.php:46
+msgid "Hightlighting color"
+msgstr ""
+#: ../advance/shortcodes/shortcodes-generate.php:62
+msgid "Dropcaps"
+msgstr ""
+#: ../advance/shortcodes/shortcodes-generate.php:80
+msgid "Font size"
+msgstr ""
+#: ../advance/shortcodes/shortcodes-generate.php:96
+msgid "Image with lightbox"
+msgstr ""
+#: ../advance/shortcodes/shortcodes-generate.php:119
+msgid "url"
+msgstr ""
+#: ../advance/shortcodes/shortcodes-generate.php:126
+#: ../advance/shortcodes/shortcodes-generate.php:174
+#: ../advance/shortcodes/shortcodes-generate.php:248
+#: ../advance/shortcodes/shortcodes-generate.php:321
+#: ../advance/shortcodes/shortcodes-generate.php:407
+#: ../advance/shortcodes/shortcodes-generate.php:481
+#: ../advance/shortcodes/shortcodes-generate.php:554
+#: ../advance/shortcodes/shortcodes-generate.php:627
+#: ../advance/shortcodes/shortcodes-generate.php:714
+#: ../advance/shortcodes/shortcodes-generate.php:788
+#: ../advance/shortcodes/shortcodes-generate.php:861
+#: ../advance/shortcodes/shortcodes-generate.php:934
+#: ../advance/shortcodes/shortcodes-generate.php:1007
+#: ../advance/shortcodes/shortcodes-generate.php:1081
+#: ../advance/shortcodes/shortcodes-generate.php:1157
+msgid "Title"
+msgstr ""
+#: ../advance/shortcodes/shortcodes-generate.php:133
+msgid "Border"
+msgstr ""
+#: ../advance/shortcodes/shortcodes-generate.php:149
+msgid "Pricing Boxes"
+msgstr ""
+#: ../advance/shortcodes/shortcodes-generate.php:152
+msgid "Big"
+msgstr ""
+#: ../advance/shortcodes/shortcodes-generate.php:156
+#: ../advance/shortcodes/shortcodes-generate.php:230
+#: ../advance/shortcodes/shortcodes-generate.php:303
+#: ../advance/shortcodes/shortcodes-generate.php:389
+#: ../advance/shortcodes/shortcodes-generate.php:463
+#: ../advance/shortcodes/shortcodes-generate.php:536
+#: ../advance/shortcodes/shortcodes-generate.php:609
+#: ../advance/shortcodes/shortcodes-generate.php:696
+#: ../advance/shortcodes/shortcodes-generate.php:770
+#: ../advance/shortcodes/shortcodes-generate.php:843
+#: ../advance/shortcodes/shortcodes-generate.php:916
+#: ../advance/shortcodes/shortcodes-generate.php:989
+msgid "Price"
+msgstr ""
+#: ../advance/shortcodes/shortcodes-generate.php:165
+#: ../advance/shortcodes/shortcodes-generate.php:239
+#: ../advance/shortcodes/shortcodes-generate.php:312
+#: ../advance/shortcodes/shortcodes-generate.php:398
+#: ../advance/shortcodes/shortcodes-generate.php:472
+#: ../advance/shortcodes/shortcodes-generate.php:545
+#: ../advance/shortcodes/shortcodes-generate.php:618
+#: ../advance/shortcodes/shortcodes-generate.php:705
+#: ../advance/shortcodes/shortcodes-generate.php:779
+#: ../advance/shortcodes/shortcodes-generate.php:852
+#: ../advance/shortcodes/shortcodes-generate.php:925
+#: ../advance/shortcodes/shortcodes-generate.php:998
+msgid "Per"
+msgstr ""
+#: ../advance/shortcodes/shortcodes-generate.php:183
+#: ../advance/shortcodes/shortcodes-generate.php:257
+#: ../advance/shortcodes/shortcodes-generate.php:330
+#: ../advance/shortcodes/shortcodes-generate.php:416
+#: ../advance/shortcodes/shortcodes-generate.php:490
+#: ../advance/shortcodes/shortcodes-generate.php:563
+#: ../advance/shortcodes/shortcodes-generate.php:636
+#: ../advance/shortcodes/shortcodes-generate.php:723
+#: ../advance/shortcodes/shortcodes-generate.php:797
+#: ../advance/shortcodes/shortcodes-generate.php:870
+#: ../advance/shortcodes/shortcodes-generate.php:943
+#: ../advance/shortcodes/shortcodes-generate.php:1016
+msgid "Item 1"
+msgstr ""
+#: ../advance/shortcodes/shortcodes-generate.php:192
+#: ../advance/shortcodes/shortcodes-generate.php:266
+#: ../advance/shortcodes/shortcodes-generate.php:339
+#: ../advance/shortcodes/shortcodes-generate.php:425
+#: ../advance/shortcodes/shortcodes-generate.php:499
+#: ../advance/shortcodes/shortcodes-generate.php:572
+#: ../advance/shortcodes/shortcodes-generate.php:645
+#: ../advance/shortcodes/shortcodes-generate.php:732
+#: ../advance/shortcodes/shortcodes-generate.php:806
+#: ../advance/shortcodes/shortcodes-generate.php:879
+#: ../advance/shortcodes/shortcodes-generate.php:952
+#: ../advance/shortcodes/shortcodes-generate.php:1025
+msgid "Item 2"
+msgstr ""
+#: ../advance/shortcodes/shortcodes-generate.php:201
+#: ../advance/shortcodes/shortcodes-generate.php:275
+#: ../advance/shortcodes/shortcodes-generate.php:348
+#: ../advance/shortcodes/shortcodes-generate.php:434
+#: ../advance/shortcodes/shortcodes-generate.php:508
+#: ../advance/shortcodes/shortcodes-generate.php:581
+#: ../advance/shortcodes/shortcodes-generate.php:654
+#: ../advance/shortcodes/shortcodes-generate.php:741
+#: ../advance/shortcodes/shortcodes-generate.php:815
+#: ../advance/shortcodes/shortcodes-generate.php:888
+#: ../advance/shortcodes/shortcodes-generate.php:961
+#: ../advance/shortcodes/shortcodes-generate.php:1034
+msgid "Item 3"
+msgstr ""
+#: ../advance/shortcodes/shortcodes-generate.php:210
+#: ../advance/shortcodes/shortcodes-generate.php:284
+#: ../advance/shortcodes/shortcodes-generate.php:357
+#: ../advance/shortcodes/shortcodes-generate.php:443
+#: ../advance/shortcodes/shortcodes-generate.php:517
+#: ../advance/shortcodes/shortcodes-generate.php:590
+#: ../advance/shortcodes/shortcodes-generate.php:663
+#: ../advance/shortcodes/shortcodes-generate.php:750
+#: ../advance/shortcodes/shortcodes-generate.php:824
+#: ../advance/shortcodes/shortcodes-generate.php:897
+#: ../advance/shortcodes/shortcodes-generate.php:970
+#: ../advance/shortcodes/shortcodes-generate.php:1043
+msgid "Item 4"
+msgstr ""
+#: ../advance/shortcodes/shortcodes-generate.php:219
+#: ../advance/shortcodes/shortcodes-generate.php:293
+#: ../advance/shortcodes/shortcodes-generate.php:366
+#: ../advance/shortcodes/shortcodes-generate.php:452
+#: ../advance/shortcodes/shortcodes-generate.php:526
+#: ../advance/shortcodes/shortcodes-generate.php:599
+#: ../advance/shortcodes/shortcodes-generate.php:672
+#: ../advance/shortcodes/shortcodes-generate.php:759
+#: ../advance/shortcodes/shortcodes-generate.php:833
+#: ../advance/shortcodes/shortcodes-generate.php:906
+#: ../advance/shortcodes/shortcodes-generate.php:979
+#: ../advance/shortcodes/shortcodes-generate.php:1052
+msgid "Button url"
+msgstr ""
+#: ../advance/shortcodes/shortcodes-generate.php:1074
+#: ../advance/shortcodes/shortcodes-generate.php:1077
+msgid "Tabs"
+msgstr ""
+#: ../advance/shortcodes/shortcodes-generate.php:1099
+#: ../advance/shortcodes/shortcodes-generate.php:1175
+msgid "Add more fields"
+msgstr ""
+#: ../advance/shortcodes/shortcodes-generate.php:1110
+#: ../advance/shortcodes/shortcodes-generate.php:1113
+msgid "Button"
+msgstr ""
+#: ../advance/shortcodes/shortcodes-generate.php:1131
+msgid "Label"
+msgstr ""
+#: ../advance/shortcodes/shortcodes-generate.php:1138
+msgid "URL"
+msgstr ""
+#: ../advance/shortcodes/shortcodes-generate.php:1150
+#: ../advance/shortcodes/shortcodes-generate.php:1153
+msgid "Accordion"
+msgstr ""
+#: ../advance/shortcodes/shortcodes-generate.php:1186
+msgid "Columns"
+msgstr ""
+#: ../advance/shortcodes/shortcodes-generate.php:1189
+msgid "Column 50%"
+msgstr ""
+#: ../advance/shortcodes/shortcodes-generate.php:1193
+msgid "Left 50%"
+msgstr ""
+#: ../advance/shortcodes/shortcodes-generate.php:1202
+msgid "Right 50%"
+msgstr ""
+#: ../advance/shortcodes/shortcodes-generate.php:1211
+#: ../advance/shortcodes/shortcodes-generate.php:1257
+#: ../advance/shortcodes/shortcodes-generate.php:1312
+#: ../advance/shortcodes/shortcodes-generate.php:1376
+#: ../advance/shortcodes/shortcodes-generate.php:1413
+#: ../advance/shortcodes/shortcodes-generate.php:1450
+msgid "Add clear"
+msgstr ""
+#: ../advance/shortcodes/shortcodes-generate.php:1226
+msgid "Column 33%"
+msgstr ""
+#: ../advance/shortcodes/shortcodes-generate.php:1230
+msgid "Left 33%"
+msgstr ""
+#: ../advance/shortcodes/shortcodes-generate.php:1239
+msgid "Center 33%"
+msgstr ""
+#: ../advance/shortcodes/shortcodes-generate.php:1248
+msgid "Right 33%"
+msgstr ""
+#: ../advance/shortcodes/shortcodes-generate.php:1272
+msgid "Column 25%"
+msgstr ""
+#: ../advance/shortcodes/shortcodes-generate.php:1276
+#: ../advance/shortcodes/shortcodes-generate.php:1441
+msgid "Left 25%"
+msgstr ""
+#: ../advance/shortcodes/shortcodes-generate.php:1285
+#: ../advance/shortcodes/shortcodes-generate.php:1294
+msgid "Center 25%"
+msgstr ""
+#: ../advance/shortcodes/shortcodes-generate.php:1303
+#: ../advance/shortcodes/shortcodes-generate.php:1404
+msgid "Right 25%"
+msgstr ""
+#: ../advance/shortcodes/shortcodes-generate.php:1327
+msgid "Column 20%"
+msgstr ""
+#: ../advance/shortcodes/shortcodes-generate.php:1331
+msgid "Left 20%"
+msgstr ""
+#: ../advance/shortcodes/shortcodes-generate.php:1340
+#: ../advance/shortcodes/shortcodes-generate.php:1349
+#: ../advance/shortcodes/shortcodes-generate.php:1358
+msgid "Center 20%"
+msgstr ""
+#: ../advance/shortcodes/shortcodes-generate.php:1367
+msgid "Right 20%"
+msgstr ""
+#: ../advance/shortcodes/shortcodes-generate.php:1391
+#: ../advance/shortcodes/shortcodes-generate.php:1395
+msgid "Left 65%"
+msgstr ""
+#: ../advance/shortcodes/shortcodes-generate.php:1428
+#: ../advance/shortcodes/shortcodes-generate.php:1432
+msgid "Right 65%"
+msgstr ""
+#: ../advance/shortcodes/shortcodes-generate.php:1465
+msgid "Line"
+msgstr ""
+#: ../advance/shortcodes/shortcodes-generate.php:1470
+msgid "Clear"
+msgstr ""
+#: ../advance/shortcodes/shortcodes-generate.php:1485
+msgid "Type"
+msgstr ""
+#: ../advance/shortcodes/shortcodes-generate.php:1496
+msgid "Movie id, or movie link"
+msgstr ""
+#: ../advance/shortcodes/shortcodes-generate.php:1503
+msgid "Height"
+msgstr ""
+#: ../advance/shortcodes/shortcodes-generate.php:1510
+msgid "Width"
+msgstr ""
+#: ../advance/shortcodes/shortcodes-generate.php:1517
+msgid "Autoplay"
+msgstr ""
